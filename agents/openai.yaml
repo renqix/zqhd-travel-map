@@ -1,0 +1,6 @@
+interface:
+  display_name: "咱去换电 · 旅行地图"
+  short_description: "从换电订单生成全屏轨迹与透明角落地图，支持手动起点、时间和时长"
+  default_prompt: "使用 $zqhd-travel-map 读取全部换电订单，按我指定的起点、出发时间和视频时长制作全屏轨迹与透明地图图层。"
+policy:
+  allow_implicit_invocation: true

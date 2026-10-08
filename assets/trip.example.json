@@ -1,0 +1,10 @@
+{
+  "example_only": true,
+  "timezone": "Asia/Shanghai",
+  "start": {"name": "上海示例起点", "time": "2026-01-01T09:00:00", "lon": 121.50304, "lat": 31.23658},
+  "end": {"name": "杭州示例终点", "time": "2026-01-01T13:00:00", "lon": 120.15, "lat": 30.24},
+  "orders": [
+    {"name": "示例服务区乙", "time": "2026-01-01T11:00:00", "lon": 120.43, "lat": 30.46, "energy_added_kwh": 24.5, "location_source": "演示点位，真实制作需核对"},
+    {"name": "示例服务区甲", "time": "2026-01-01T10:00:00", "lon": 120.67292, "lat": 30.62400, "energy_added_kwh": 12.3, "location_source": "演示点位，真实制作需核对"}
+  ]
+}
